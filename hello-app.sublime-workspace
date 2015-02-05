@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_ip_",
+				"get_ip_count"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"solc",
+				"solc_email_body"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"rand",
+				"randhash"
+			],
+			[
+				"solc_",
+				"solc_coupon_id"
+			],
+			[
+				"solc_coup",
+				"solc_coupon_exists"
+			],
+			[
+				"num",
+				"num_referrals"
+			],
+			[
+				"solc_get_",
+				"solc_get_pid"
+			],
+			[
+				"IS",
+				"isset"
+			],
+			[
+				"tw",
+				"twitterText"
+			],
+			[
+				"rawurl",
+				"rawurlencode"
+			],
+			[
+				"prelaun",
+				"prelaunchr_before_thankyou"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"la",
+				"la_product_img"
+			],
+			[
+				"rawur",
+				"rawurlencode"
+			],
+			[
+				"lower",
+				"ttpc-lower-container"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"opti",
+				"opti-png"
+			],
+			[
+				"minify",
+				"minify-css"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tt",
+				"tinker-totes-product-choices"
+			],
+			[
+				"getO",
+				"getOptionsAsString"
+			],
+			[
+				"option",
+				"optionsString"
+			],
+			[
+				"ttpc-",
+				"ttpc-checkout"
+			],
+			[
+				"Large",
+				"LargeDog"
+			],
+			[
+				"Medi",
+				"MediumDog"
+			],
+			[
+				"dro",
+				"droppedOption"
+			],
+			[
+				"Sma",
+				"SmallDog"
+			],
+			[
+				"thum",
+				"thumbnails"
+			],
+			[
+				"log",
+				"logChoicesState"
+			],
+			[
+				"current",
+				"currentAmount"
+			],
+			[
+				"curre",
+				"currentAmount"
+			],
+			[
+				"dropp",
+				"droppable"
+			],
+			[
+				"small",
+				"small_dog_thumbnail"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ttpc_",
+				"ttpc_style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"Contr",
+				"ContractController"
+			],
+			[
+				"entry-",
+				"entry-title"
+			],
+			[
+				"entr",
+				"entry-title"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"me",
+				"member-activity"
+			],
+			[
+				"wid",
+				"widgets"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matthewmcgivney/Library/Caches/com.binarynights.ForkLift2/#0/functions.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/themes/oxygen-child/t_launch_campaign.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/includes/class-prelaunchr-activator.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/languages/prelaunchr.pot",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/includes/class-prelaunchr-admin.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/templates/prelaunchr-thankyou.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/templates/thankyou/intro.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/templates/thankyou/referral-progress.php",
+		"/Users/matthewmcgivney/Desktop/debmc2.html",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/templates/thankyou/share.php",
+		"/Users/matthewmcgivney/Desktop/debmc.html",
+		"/Users/matthewmcgivney/Google Drive/SoleilOptics/antymnet7_seed.sql",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/wc-integration/create-coupon.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign/prelaunchr.php",
+		"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/email-confirmation/email-confirmation.php",
+		"/Users/matthewmcgivney/Library/Caches/com.binarynights.ForkLift2/#1/t_launch_campaign.php",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-23/boatnamesdirect.com/Cart/lib/orders.php",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-23/boatnamesdirect.com/Cart/error_log",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-23/boatnamesdirect.com/admin/error_log",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-23/boatnamesdirect.com/admin/includes/classes/class.shipments_bk.php",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com/admin/script/common.js",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com/admin/script/order.js",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com/includes/classes/class.remote.php",
+		"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com/admin/includes/classes/class.remote.php",
+		"/Users/matthewmcgivney/Google Drive/kari/perfectAudience.js",
+		"/Users/matthewmcgivney/Google Drive/kari/autorespnder.html",
+		"/Users/matthewmcgivney/vagrant-local/www/meetup/htdocs/wp-config.php",
+		"/Users/matthewmcgivney/Google Drive/DanaJohnson/danajohnson/proposal.html",
+		"/Users/matthewmcgivney/Google Drive/DanaJohnson/danajohnson/js/controllers.js",
+		"/Users/matthewmcgivney/.bash_profile",
+		"/Users/matthewmcgivney/Dropbox/MattMcGivney/tinker-totes-product-choices/package.json",
+		"/Users/matthewmcgivney/Dropbox/MattMcGivney/tinker-totes-product-choices/gulpfile.js",
+		"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/plugins/tinker-totes-product-choices/scripts/ui.js",
+		"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/plugins/tinker-totes-product-choices/styles/style.css",
+		"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/plugins/tinker-totes-product-choices/tinker-totes-product-choices.php",
+		"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/plugins/tinker-totes-product-choices/checkout-util.php",
+		"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/plugins/tinker-totes-product-choices/gulp.js",
+		"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/plugins/tinker-totes-product-choices/scripts/objects.js",
+		"/Users/matthewmcgivney/Dropbox/MattMcGivney/tinker-totes-product-choices/tinker-totes-product-choices.php",
+		"/Users/matthewmcgivney/Dropbox/MattMcGivney/tinker-totes-product-choices/styles/style.css",
+		"/Users/matthewmcgivney/Dropbox/MattMcGivney/tinker-totes-product-choices/scripts/ui.js",
+		"/Users/matthewmcgivney/Dropbox/MattMcGivney/source/scripts/objects.js",
+		"/Users/matthewmcgivney/Dropbox/MattMcGivney/tinker-totes-product-choices/scripts/objects.js",
+		"/Users/matthewmcgivney/Google Drive/eric boshoven/boschovin/js/controllers.js",
+		"/Users/matthewmcgivney/Google Drive/eric boshoven/boschovin/proposal.html",
+		"/Users/matthewmcgivney/Google Drive/eric boshoven/boschovin/contract.html",
+		"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/themes/worldview-child/home-page.php",
+		"/Users/matthewmcgivney/vagrant-local/www/meetup/htdocs/wp-content/themes/bosh/style.css",
+		"/Users/matthewmcgivney/Desktop/angular/js/controllers.js",
+		"/Users/matthewmcgivney/Desktop/angular/contract.html",
+		"/Users/matthewmcgivney/Desktop/angular/proposal",
+		"/Users/matthewmcgivney/Desktop/angular/js/objects.js",
+		"/Users/matthewmcgivney/Desktop/angular/untitled folder/proposal.html",
+		"/Users/matthewmcgivney/Desktop/wp-db.bash"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/themes/oxygen-child",
+			"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign",
+			"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/themes/oxygen-child",
+			"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign",
+			"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/themes/oxygen-child",
+			"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/soleil-optics-launch-campaign",
+			"/Users/matthewmcgivney/vagrant-local/www/soleiloptics/htdocs/wp-content/plugins/wp-prelaunchr",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-23/boatnamesdirect.com",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12/boatnamesdirect.com",
+			"/Users/matthewmcgivney/vagrant-local/www/soleil/htdocs/wp-content/plugins/wp-prelaunchr",
+			"/Volumes/My Book/backups/boatnamesdirect/2015-01-12",
+			"/Users/matthewmcgivney/Desktop/plugins",
+			"/Users/matthewmcgivney/vagrant-local/www/wordpress-default/wp-content/plugins/theme-my-login",
+			"/Users/matthewmcgivney/Downloads/inc",
+			"/Users/matthewmcgivney/Downloads/inc/shortcodes",
+			"/Users/matthewmcgivney/vagrant-local/www/wordpress-develop/src/wp-content/plugins/inc",
+			"/Users/matthewmcgivney/Downloads/inc",
+			"/Volumes/My Book/backups/mvmem.com/mvmempics backup/worldview-child"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"twit.png",
+			"fb.png",
+			"solc/",
+			"antym.net",
+			"prelaunch",
+			"menu",
+			"format",
+			"randhash",
+			"this",
+			"get_ip_address()",
+			"$ip",
+			"get_ip_address",
+			"global $wpdb;",
+			"get_ip_",
+			"ip_exists",
+			"email_exists(",
+			"$data",
+			"ip_address",
+			"ip",
+			".hero",
+			"page-content",
+			"clearfix",
+			"dialog",
+			"jQuery",
+			"dialog",
+			"background",
+			"path",
+			"Prelaunchr",
+			"plugin_dir_path",
+			"show",
+			"soleiloptics.com",
+			"soleiloptics.dev",
+			"wp_die",
+			"solcShareFB()",
+			"$prefix",
+			"$ip",
+			"wpdb",
+			"get_ip_address(",
+			"ip",
+			"send_",
+			"send_confirmation_email",
+			"send_confirmation_email\n",
+			"randhash",
+			"get",
+			"valid_uuid(",
+			"solc_num_referrals_to_rewards",
+			"solc_num_referrals_to_rewards\nsolc_num_referrals_to_rewards",
+			"num_referrals_to_rewards",
+			"format",
+			"email",
+			"s",
+			"prelaunchr id",
+			"generate pid",
+			"id=",
+			"prelaunchr[id]",
+			"data['pid']",
+			"$pid",
+			"pid",
+			"valid_uuid",
+			"ip",
+			"wpdb",
+			"solc_wc_redeem",
+			"count",
+			"solc_get_count",
+			"count",
+			"solc_count",
+			"count",
+			"$count",
+			"solcRedeemConfirm",
+			"reward",
+			"rewards",
+			"email",
+			"valid_uuid(",
+			"PRELAUNCHR_PLUGIN_URL",
+			"PRELAUNCHR_PLUGIN_PATH",
+			"plugin_dir",
+			"ajax",
+			"get_referral_count_from_email(",
+			"functions",
+			"\"",
+			"#refer .share-wrap .social-links .twit",
+			"referrals",
+			"p.",
+			"harry",
+			"friend",
+			"PrelaunchrSubmit",
+			"PrelaunchrSubmit.ajaxurl",
+			"ajax",
+			"update",
+			"TrackingNo",
+			"query",
+			"orderid",
+			"$GLOBALS['TrackingNo']",
+			"TrackingNo",
+			"tracking",
+			"orders.php",
+			"setTemplate",
+			"function SetTemplate(",
+			"FetchEmailTemplateParser",
+			"function GetOrder(",
+			"GetOrder(",
+			"$GLOBALS['ISC_CLASS_DB']->Query",
+			"ISC_CLASS_DB",
+			"order",
+			"ordtrackingno",
+			"$order[",
+			"'shiptrackno'",
+			"$postData",
+			"email",
+			"SaveUpdatedOrder",
+			"Fetch(",
+			"function Fetch(",
+			"Fetch(",
+			"trackingno",
+			"ordtrackingno",
+			"$query = \"SELECT",
+			"TrackingNo",
+			"order_status_email.html",
+			"ordtrackingno",
+			"action",
+			"UpdateTrackingNo()",
+			"case \"updatetrackingno\"",
+			"TrackingNo",
+			"GLOBAL_TrackingNo",
+			"%%GLOBAL_TrackingNo%%",
+			"Order Status Changed to 'Shipped (Complete)'",
+			"tracking",
+			"url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 313.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"orders.php",
+				"Cart/lib/orders.php"
+			],
+			[
+				"err",
+				"Cart/error_log"
+			],
+			[
+				"error_log",
+				"admin/error_log"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": false
+}
